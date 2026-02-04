@@ -9,6 +9,7 @@ The main objective of this project is to:
 Understand the working of AI agents
 Implement the PEAS (Performance, Environment, Actuators, Sensors) model
 Simulate decision-making behavior in a football environment
+
 **⚙️ How It Works**
 
 The environment maintains the position of the ball and players.
