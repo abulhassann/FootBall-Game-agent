@@ -1,4 +1,5 @@
 **📌 About the Project**
+
 This project is a Python-based football simulation that demonstrates the concept of intelligent agents in Artificial Intelligence. Each football player is modeled as an autonomous agent that can perceive its environment and take actions based on predefined rules.
 
 **🧠 Objective**
